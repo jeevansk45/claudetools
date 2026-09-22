@@ -1,0 +1,8 @@
+anthropic>=0.40.0
+pdfplumber>=0.11.0
+pdf2image>=1.17.0
+scikit-learn>=1.5.0
+python-dotenv>=1.0.0
+
+# pdf2image also requires the poppler-utils system package
+# (already installed in this sandbox; on Ubuntu/Debian: apt install poppler-utils)
